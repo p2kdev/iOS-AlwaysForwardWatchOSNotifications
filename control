@@ -4,6 +4,6 @@ Depends: mobilesubstrate
 Version: 1.1
 Architecture: iphoneos-arm
 Description: Forward WatchOS notifications even when unlocked
-Maintainer: Mohammad Abu-Garbeyyeh
+Maintainer: P2KDev <p2kdev@gmail.com>
 Author: Mohammad Abu-Garbeyyeh
 Section: Tweaks
